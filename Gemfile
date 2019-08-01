@@ -5,6 +5,8 @@ ruby '2.5.3'
 
 gem 'simple_form'
 
+gem 'devise'
+
 gem 'jquery-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
