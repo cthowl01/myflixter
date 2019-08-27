@@ -9,16 +9,11 @@ gem 'ranked-model'
 
 gem 'stripe'
 
-#gem 'carrierwave', '~> 2.0'
 gem 'carrierwave', '~> 1.3.1'
-
-#gem 'aws-sdk'
 
 gem 'carrierwave-aws', '~> 1.0.2'
 
 gem "mini_magick"
-
-#gem "aws-sdk-s3"
 
 gem "fog-aws"
 
